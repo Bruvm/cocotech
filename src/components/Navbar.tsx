@@ -14,7 +14,7 @@ import MenuItem from "@mui/material/MenuItem";
 import logo from "../assets/img/logo.webp";
 
 const pages = [
-    { label: "Inicio", href: "/" },
+    { label: "Inicio", href: "#" },
     { label: "Recursos", href: "#technology" },
     { label: "Sobre nosotros", href: "#about" },
     { label: "Producto", href: "#product" },
