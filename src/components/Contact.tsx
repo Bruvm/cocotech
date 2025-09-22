@@ -12,7 +12,7 @@ const Contact = () => {
     const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
 
     const form = useRef<HTMLFormElement | null>(null);
-    const [sent, setSent] = useState(false);
+    const [, setSent] = useState(false);
     const [sending, setSending] = useState(false);
     const [open, setOpen] = useState(false);
     const [error, setError] = useState(false);

@@ -3,8 +3,6 @@ import Features from "../components/Feature"
 import Footer from "../components/Footer"
 import Hero from "../components/Hero"
 import Info from "../components/Info"
-
-import Navbar from "../components/Navbar"
 import Products from "../components/Products"
 import Technology from "../components/Technology"
 
